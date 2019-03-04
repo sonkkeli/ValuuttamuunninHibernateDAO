@@ -1,6 +1,6 @@
 # ValuuttamuunnninHibernateDAO
     
-VALUUTTA-TIETOKANNAN YLLÄPITO-OHJELMA HIBERNATELLA    
+Valuuttatietokannan ylläpito-ohjelma hibernatella    
 # Tavoite
 Oppia Hibernate-ORM.n käyttö.    
 # Käsitteitä
