@@ -1,4 +1,4 @@
-# ValuuttamuunnninHibernateDAO
+# ValuuttamuunninHibernateDAO
     
 Valuuttatietokannan ylläpito-ohjelma hibernatella    
 # Tavoite
